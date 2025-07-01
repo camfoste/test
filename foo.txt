@@ -6,3 +6,4 @@ quickfix changes
 newfeature2 changes
 quickfix changes
 newfeature2 changes
+quickfix changes
